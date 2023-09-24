@@ -1,6 +1,7 @@
 # belly-button-challenge
 
-Deployed to Github:  https://natkabond.github.io/belly-button-challenge/
+[Deployed to GitHub Pages Site](https://natkabond.github.io/belly-button-challenge/)
+
 
 ## Instructions
 
